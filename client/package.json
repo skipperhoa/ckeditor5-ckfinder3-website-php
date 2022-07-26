@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "http://localhost/ckeditor5-ckfinder3-website-php/client",
+  "homepage": "http://localhost/ckeditor5-ckfinder3-website-php/admin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,9 +1,11 @@
 {
   "name": "client",
-  "homepage": "http://localhost/ckeditor5-ckfinder3-website-php/admin",
+  "homepage": "http://localhost/ckeditor5-ckfinder3-react-php/admin/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^34.2.0",
+    "@ckeditor/ckeditor5-react": "^5.0.2",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -36,6 +38,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost/ckeditor5-ckfinder3-website-php",
-  "secure": false
+  "proxy":"http://localhost",
+  "secure":false
 }

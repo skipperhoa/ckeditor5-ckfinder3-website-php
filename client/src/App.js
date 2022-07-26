@@ -12,7 +12,7 @@ function App() {
                     config={{
                         ckfinder: {
                             // Upload the images to the server using the CKFinder QuickUpload command.
-                            uploadUrl: '/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Files&responseType=json',
+                            uploadUrl: '/ckeditor5-ckfinder3-react-php/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Files&responseType=json',
                             // Define the CKFinder configuration (if necessary).
                             options: {
                                 resourceType: 'Images'

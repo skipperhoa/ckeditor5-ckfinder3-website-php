@@ -1,0 +1,17 @@
+{
+  "name": "ckeditor5-ckfinder3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hoanguyenit.com"
+  ],
+  "author": "hoanguyenit.com",
+  "license": "ISC",
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^34.2.0"
+  }
+}
